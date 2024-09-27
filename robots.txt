@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rwoed.github.io/RGN/sitemap.RGN.gz
